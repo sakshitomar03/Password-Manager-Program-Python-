@@ -1,0 +1,12 @@
+Uses:
+dictionary
+loops
+conditional
+module: random
+file handling
+
+website: ppassword
+
+random module
+file read/write
+real world
